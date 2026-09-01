@@ -43,6 +43,7 @@ export {
   getTargetScrollBarSize,
 } from './getScrollBarSize';
 export { default as isEqual } from './isEqual';
+export { isNonNullable, isReactRenderable } from './is';
 export { default as isMobile } from './isMobile';
 export { default as omit } from './omit';
 export { default as pickAttrs } from './pickAttrs';
